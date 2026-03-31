@@ -69,7 +69,7 @@ machine learning model that predicts flight ticket prices accurately
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to try the app](<your streamlit link here>)
+👉 [Click here to try the app](https://flight-price-predictor-jnhtdzg5xcyb3q98g62eb8.streamlit.app/)
 
 ---
 
